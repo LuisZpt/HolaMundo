@@ -1,10 +1,6 @@
- readme-editsC
-const main = () => {
-
-  (() => {
-    console.log("Hola Mundo");
-  })()
-}
+hfkejhfejfaknflsnasldnMDAKLNDAKNSDAS
+AFALJFBAFASJHDASKNDASKDNASKL
+ANALFNALJFBALSJBAKBJEB
 
 window.addEventListener('load', main);
 =======
